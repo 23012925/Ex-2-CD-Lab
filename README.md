@@ -2,7 +2,7 @@
 
 ### Reg. No: 212223040072
 
-### Date : 19-09-2025
+### Date : 26-09-2025
 
 # AIM
 To write a lex program to implement lexical analyzer to recognize a few patterns.
